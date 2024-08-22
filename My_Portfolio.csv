@@ -1,9 +1,7 @@
 ﻿Symbol;Name;Shares;Share cost (USD);Share cost (EUR);Invested (USD);Invested (EUR);Total Invested (USD);Total Invested (EUR);Last Purchase (YY-MM-DD);Category
 AMC;AMC Entertainment Holdings;36.58195;38.5;;1408.405075;0;8373.279577;29856.03256;2023-09-13;Stock
-GME;GameStop Corporation;87;;28.87;0;2511.27;;;2024-08-15;Stock
-GME;GameStop Corporation;166.12049;29.69;;4932.87;0;;;2024-05-22;Stock
-MVIS;Microvision;1597;;2.26;0;3607.36;;;2024-08-13;Stock
-MVIS;Microvision;115.30921;3.5057;;404.24;0;;;2024-07-10;Stock
+GME;GameStop Corporation;253.1205;29.69;28.87;4932.87;2511.27;;;2024-08-15;Stock
+MVIS;Microvision;1712.3092;3.5057;2.26;404.24;3607.36;;;2024-08-13;Stock
 DIS;Walt Disney Company (The);3.5;144.99;;507.465;0;;;2024-03-04;Stock
 NVDA;NVIDIA Corporation;0.2931;85.28301;;24.99645023;0;;;2024-03-04;Stock
 ARM;Arm Holdings plc;0.16926;147.7;;24.999702;0;;;2024-03-04;Stock
