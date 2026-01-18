@@ -1,26 +1,15 @@
-Symbol;Name;Shares;Share cost (USD);Share cost (EUR);Invested (USD);Invested (EUR);Total Invested (USD);Total Invested (EUR);Last Purchase (YY-MM-DD);Category;TR/Crypto.com Investment;TR/Crypto.com Shares ;TR/Crypto.com Average Cost Pre Transfer;TR/Crypto.com Transfer Cost;TR/Crypto.com Share After Transfer;BitPanda/Exodus Commission;Crypto Value during Transfer (EUR);Overall Cost Transfer;TR/Crypto.com Average Cost After Transfer;Formula
-AMC;AMC Entertainment Holdings;36.58195;38.5;nan;1408.405075;0.0;8821.572769;45456.77178;2023-09-13;Stock;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-GME;GameStop Corporation;277.09126;29.0045209;28.87;5513.505923;2511.27;nan;nan;2025-02-06;Stock;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-MVIS;Microvision;1712.3092;3.5057;2.26;404.24;3607.36;nan;nan;2024-08-13;Stock;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-DIS;Walt Disney Company (The);3.5;144.99;nan;507.465;0.0;nan;nan;2024-03-04;Stock;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-NVDA;NVIDIA Corporation;0.2931;85.28301;nan;24.99645023;0.0;nan;nan;2024-03-04;Stock;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-ARM;Arm Holdings plc;0.16926;147.7;nan;24.999702;0.0;nan;nan;2024-03-04;Stock;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-AMD;Advanced Micro Devices Inc.;0.1191;209.9;nan;24.99909;0.0;nan;nan;2024-03-04;Stock;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-TSLA;Tesla Inc.;0.129032;193.75;nan;24.99995;0.0;nan;nan;2024-03-04;Stock;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-BRK-B;Berkshire Hathaway Inc. New;1.51303;363.51;nan;550.0015353;0.0;nan;nan;2023-09-08;Stock;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-AAPL;Apple Inc.;1.032578;193.69;nan;200.0000328;0.0;nan;nan;2023-07-03;Stock;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-IFX.DE;INFINEON TECH.AG NA O.N.;17.523;nan;39.23;0.0;687.42729;nan;nan;2023-07-03;Stock;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-SP5A.MI;SPDR S&P 500 UCITS ETF (Acc);551.109982;nan;12.67824916;0.0;6987.109664;nan;nan;2025-01-02;ETF;1860.219664;142.109982;13.09;nan;nan;nan;nan;nan;nan;
-FWRA.MI;Invesco FTSE All-World UCITS ETF USD Accumalation;2583;nan;6.699;0.0;17304;nan;nan;2025-02-28;ETF;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-IE00BK5BQT80;Vanguard FTSE All-World UCITS E;109.0;nan;120.7787156;0.0;13164.88;nan;nan;2024-06-11;ETF;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-IE00BFMXXD54;Vanguard S&P 500 UCITS ETF USD;38.0;nan;94.17052632;0.0;3578.48;nan;nan;2024-06-11;ETF;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-IE0003XJA0J9;Amundi Prime All Country World UCITS ETF Acc;36.082259;nan;10.17;0.0;366.956574;nan;nan;2025-01-02;ETF;366.956574;36.082259;10.17;nan;nan;nan;nan;nan;nan;
-BTC-EUR;Bitcoin EUR;0.034524;nan;81351.8312;0.0;2808.59062;nan;nan;2024-02-27;Crypto;621.1168103;0.01984724;31294.87074;0.0004;0.01938724;6e-05;94475.0;43.4585;34279.00569;
-ETH-EUR;Ethereum EUR;0.03045;nan;2181.61;0.0;75.94060058;nan;nan;2024-03-04;Crypto;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-DOGE-EUR;Dogecoin EUR;953.392548;nan;0.08632094;0.0;78.02345062;nan;nan;2021-04-13;Crypto;76.3002867;959.39;0.07953;5.99745201;953.392548;nan;0.287316;1.72316392;0.08632094;
-BNB-EUR;BNB EUR;0.1127362;nan;308.1074675;0.0;34.73486508;nan;nan;2021-04-02;Crypto;31.89753;0.1177782;337.54;0.005042;0.1127362;nan;562.74;2.83733508;308.1074675;
-ADA-EUR;Cardano EUR;142.04215;1.13328;1.52136988;137.9600108;30.89445816;nan;nan;2021-04-02;Crypto;27.25;23.49745624;1.1597;0.99745624;20.307;2.193;1.1423;3.64445816;1.52136988;
-SHIB-EUR;Shiba Inu EUR;4394106.02;nan;2.645e-05;0.0;116.2107927;nan;nan;2021-06-10;Crypto;88.15034462;3432927.02;3.012e-05;38696.53768;3394106.02;nan;1.5e-05;0.58044807;2.614e-05;
-LRC-EUR;Loopring EUR;240.94;nan;1.7012949;0.0;409.9099932;nan;nan;2022-01-17;Crypto;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-SOL-EUR;Solana EUR;7.86844664;nan;151.95;0.0;1195.610467;nan;nan;2024-03-04;Crypto;nan;nan;nan;nan;nan;nan;nan;nan;nan;
-USDEUR=X;USDEUR=X;0.0;0.0;0.0;0.0;0.0;nan;nan;2021-04-02;Forex;nan;nan;nan;nan;nan;nan;nan;nan;nan;
+Symbol;Name;Shares;Share cost (USD);Share cost (EUR);Invested (USD);Invested (EUR);Total Invested (USD);Total Invested (EUR);Last Purchase (YY-MM-DD);Category;TR Investment;TR Shares ;TR  Average Cost;Flatex Investment ;Flatex Shares;Flatex Average Cost
+AMC;AMC Entertainment Holdings;36.58195;38.5;nan;1408.405075;0;8821.572769;45456.77178;13/09/2023;Stock;nan;nan;nan;nan;;
+GME;GameStop Corporation;277.09126;29.0045209;28.87;5513.505923;2511.27;nan;nan;06/02/2025;Stock;nan;nan;nan;nan;;
+MVIS;Microvision;1712.3092;3.5057;2.26;404.24;3607.36;nan;nan;13/08/2024;Stock;nan;nan;nan;nan;;
+DIS;Walt Disney Company (The);3.5;144.99;nan;507.465;0;nan;nan;04/03/2024;Stock;nan;nan;nan;nan;;
+NVDA;NVIDIA Corporation;0.2931;85.28301;nan;24.99645023;0;nan;nan;04/03/2024;Stock;nan;nan;nan;nan;;
+ARM;Arm Holdings plc;0.16926;147.7;nan;24.999702;0;nan;nan;04/03/2024;Stock;nan;nan;nan;nan;;
+BRK-B;Berkshire Hathaway Inc. New;1.51303;363.51;nan;550.0015353;0;nan;nan;08/09/2023;Stock;nan;nan;nan;nan;;
+AAPL;Apple Inc.;1.032578;193.69;nan;200.0000328;0;nan;nan;03/07/2023;Stock;nan;nan;nan;nan;;
+SP5A.MI;SPDR S&P 500 UCITS ETF (Acc);620.33041;nan;12.76134652;0;7916.251319;nan;nan;02/01/2025;ETF;2844.507319;211.33041;13.46;5071.744;409;12.40035208
+FWRA.MI;Invesco FTSE All-World UCITS ETF USD Accumalation;2583;nan;6.699;0;17304;nan;nan;28/02/2025;ETF;nan;nan;nan;;;
+IE00BK5BQT80;Vanguard FTSE All-World UCITS E;109;nan;120.7787156;0;13164.88;nan;nan;11/06/2024;ETF;nan;nan;nan;;;
+IE00BFMXXD54;Vanguard S&P 500 UCITS ETF USD;38;nan;94.17052632;0;3578.48;nan;nan;11/06/2024;ETF;nan;nan;nan;;;
+IE0003XJA0J9;Amundi Prime All Country World UCITS ETF Acc;36.082259;nan;10.17;0;366.956574;nan;nan;02/01/2025;ETF;366.956574;36.082259;10.17;;;
+USDEUR=X;USDEUR=X;0;0;0;0;0;nan;nan;02/04/2021;Forex;nan;nan;nan;;;
